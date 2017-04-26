@@ -1,1 +1,1 @@
-# symbolic_differentiation
+# Symbolic differentiation based on recursive descent
